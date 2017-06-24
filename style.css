@@ -1,0 +1,11 @@
+img {
+  max-width: 600px;
+}
+
+.tab {
+  text-indent: 40px;
+}
+
+.recipe {
+  background-image: url("/Users/jeffmccord/codefellows/201/chocolate-pizza/chocolate-pizza/images/list-bg.png");
+}
