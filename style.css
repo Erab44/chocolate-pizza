@@ -6,6 +6,22 @@ img {
   text-indent: 40px;
 }
 
-.recipe {
+div {
   background-image: url("/Users/jeffmccord/codefellows/201/chocolate-pizza/chocolate-pizza/images/list-bg.png");
+  background-repeat: no-repeat;
+}
+
+#rss {
+  margin-left: 5px;
+}
+
+.icons {
+  position: relative;
+  float: right;
+  text-align: right;
+  margin: -4px 20px 0 0;
+}
+
+h3 {
+  display: inline;
 }
