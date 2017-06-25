@@ -1,7 +1,24 @@
-img {
-  max-width: 600px;
+html {
+
 }
 
+img {
+  max-width: 800px;
+}
+
+body {
+  max-width: 800px;
+  margin-left: 15%;
+}
+
+em {
+  font-family: cursive;
+  font-size: 24pt;
+}
+
+.head-title {
+  font-size: 12pt;
+}
 .tab {
   text-indent: 40px;
 }
@@ -14,8 +31,13 @@ div {
 #rss {
   margin-left: 5px;
 }
+.head-icon {
+  background-image: none;
+  float: left;
+}
 
 .icons {
+  background-image: none;
   position: relative;
   float: right;
   text-align: right;
