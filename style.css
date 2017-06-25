@@ -11,14 +11,25 @@ body {
   margin-left: 15%;
 }
 
-em {
-  font-family: cursive;
-  font-size: 24pt;
+hr {
+  border: 3px groove grey;
 }
 
 .head-title {
-  font-size: 12pt;
+  font-variant: small-caps;
+  font-size: 10pt;
+  margin-left: 5px;
+  display: inline;
 }
+
+em {
+  font-variant: normal;
+  font-family: cursive;
+  font-size: 24pt;
+  margin-left: 5px;
+  display: inline;
+}
+
 .tab {
   text-indent: 40px;
 }
@@ -44,6 +55,6 @@ div {
   margin: -4px 20px 0 0;
 }
 
-h3 {
-  display: inline;
+.bottom-icon {
+  margin-left: 50%;
 }
