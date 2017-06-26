@@ -1,0 +1,60 @@
+html {
+
+}
+
+img {
+  max-width: 800px;
+}
+
+body {
+  max-width: 800px;
+  margin-left: 15%;
+}
+
+hr {
+  border: 3px groove grey;
+}
+
+.head-title {
+  font-variant: small-caps;
+  font-size: 10pt;
+  margin-left: 5px;
+  display: inline;
+}
+
+em {
+  font-variant: normal;
+  font-family: cursive;
+  font-size: 24pt;
+  margin-left: 5px;
+  display: inline;
+}
+
+.tab {
+  text-indent: 40px;
+}
+
+div {
+  background-image: url("/Users/jeffmccord/codefellows/201/chocolate-pizza/chocolate-pizza/images/list-bg.png");
+  background-repeat: no-repeat;
+}
+
+#rss {
+  margin-left: 5px;
+}
+.head-icon {
+  background-image: none;
+  float: left;
+}
+
+.icons {
+  background-image: none;
+  position: relative;
+  float: right;
+  text-align: right;
+  margin: -4px 20px 0 0;
+}
+
+.bottom-icon {
+  margin-left: 50%;
+}
